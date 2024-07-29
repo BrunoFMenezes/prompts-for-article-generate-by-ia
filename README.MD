@@ -14,7 +14,7 @@
 
 <p align="center">
   <img 
-    src=".github/assets/preview.png"
+    src=".github/assets/Capa.png"
     width="400"  
   />
 </p>
@@ -91,4 +91,4 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ---
 
-⌨️ com 💜 por [Bruno Menenezes](https://github.com/BrunoFMenezes)
+⌨️ com 💜 por [Bruno Menezes](https://github.com/BrunoFMenezes)
